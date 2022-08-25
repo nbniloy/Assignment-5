@@ -1,0 +1,45 @@
+.images{
+    height: 500px;
+    background-image: url("R.jpg");
+}
+
+h1{
+    font-family: 'Cuprum', sans-serif;
+    
+}
+
+
+.top{
+    height: 300px;
+    width: 200px;
+    background-color: black;
+}
+
+.tops{
+    height: 400px;
+    width: 200px;
+    background-color: black;
+}
+
+main>section div{
+    background-color: black;
+    color: rgb(216, 189, 189);
+    
+}
+
+.head{
+border-top: 2px solid white;
+}
+
+body{
+    color: white;
+}
+
+ul li{
+    list-style-type: upper-roman;
+}
+
+
+button:disabled{
+    background-color: skyblue;
+}
